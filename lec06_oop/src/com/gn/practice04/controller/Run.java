@@ -12,5 +12,7 @@ public class Run {
 		c.setSpeed(150);
 		String destination = c.setDestination("부산"); 
 		System.out.println(destination);
+		
+				
 	}
 }
